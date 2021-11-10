@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 **Quick Facts**
-- 🎓 Physics undergraduate student/research at the University of Maryland, Baltimore County
+- 🎓 Physics undergraduate student/researcher at the University of Maryland, Baltimore County
 - 🔭 Current Projects: Planetary Boundary Layer Height Altitude Detection Program
 - 🖥️ Knowledgeable in: Python, R, MATLAB, Java, Arduino Code 
 - 📫 You can reach me at [amanzeejiogu@gmail.com](mailto:amanzeejiogu@gmail.com) OR [aejiogu1@umbc.edu](mailto:aejiogu1@umbc.edu)
