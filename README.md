@@ -3,7 +3,7 @@
 - 🎓 Physics undergraduate student/researcher at the University of Maryland, Baltimore County
 - 🔭 Current Projects: Planetary Boundary Layer Height Altitude Detection Program
 - 🖥️ Knowledgeable in: Python, R, MATLAB, Java, Arduino Code 
-- 📫 You can reach me at [amanzeejiogu@gmail.com](mailto:amanzeejiogu@gmail.com) OR [aejiogu1@umbc.edu](mailto:aejiogu1@umbc.edu)
+- 📫 You can reach me at [aejiogu1@umbc.edu](mailto:aejiogu1@umbc.edu)
 - 😄 Pronouns: He/Him
 
 
