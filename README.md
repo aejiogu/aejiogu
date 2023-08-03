@@ -1,9 +1,8 @@
 ### Welcome to my Github!
 **Quick Facts**
-- 🎓 Physics undergraduate student/researcher at the University of Maryland, Baltimore County
-- 🔭 Current Projects: Planetary Boundary Layer Height Altitude Detection Program
-- 🖥️ Knowledgeable in: Python, R, MATLAB, Java, Arduino Code 
-- 📫 You can reach me at [aejiogu1@umbc.edu](mailto:aejiogu1@umbc.edu)
+- 🎓 Atmospheric science doctoral student at Pennsylvania State University, with a BS in Physics from the University of Maryland, Baltimore County
+- 🖥️ Knowledgeable in: Python, R, MATLAB, Machine Learning, Java, Arduino Code 
+- 📫 You can reach me at [aejiogu@psu.edu](mailto:aejiogu@psu.edu)
 - 😄 Pronouns: He/Him
 
 
@@ -11,6 +10,7 @@ Hello! I am a senior physics major here at UMBC with a career interest in meteor
 
 <!--
 **aejiogu/aejiogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Current Projects: Planetary Boundary Layer Height Altitude Detection Program
 
 Here are some ideas to get you started:
 
