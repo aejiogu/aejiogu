@@ -1,6 +1,6 @@
-### Welcome to my Github!
+### Welcome to my Github! 🎉 
 **Quick Facts**
-- 🎓 Atmospheric science doctoral student at Pennsylvania State University
+- 🎓 Meteorology doctoral student at The Pennsylvania State University
 - 🖥️ Knowledgeable in: Python, R, MATLAB, Machine Learning, Java, Arduino Code 
 - 📫 You can reach me at [aejiogu@psu.edu](mailto:aejiogu@psu.edu)
 - 😄 Pronouns: He/Him
