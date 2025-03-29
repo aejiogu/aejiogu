@@ -1,12 +1,12 @@
 ### Welcome to my Github! 🎉 
 **Quick Facts**
 - 🎓 Meteorology graduate student at The Pennsylvania State University
-- 🖥️ Knowledgeable in: Python, R, MATLAB, Machine Learning, Java, Arduino Code 
+- 🖥️ Knowledgeable in: Python, R, Machine Learning, MATLAB, Java, Arduino Code 
 - 📫 You can reach me at [aejiogu@psu.edu](mailto:aejiogu@psu.edu)
 - 😄 Pronouns: He/Him
 
 
-Hello! I am a meteorology PhD student at Penn State, with a BS in Physics from the University of Maryland, Baltimore County. Currently, I use numerical computing and remote sensing data to help solve the mysteries of our atmosphere and beyond. In me, you'll find a persistent worker who is open to learning new skills and is never afraid to ask questions.
+Hello! I am a meteorology graduate student at Penn State, with a BS in Physics from the University of Maryland, Baltimore County. Currently, I use numerical computing and remote sensing data to help solve the mysteries of our atmosphere and beyond. In me, you'll find a persistent worker who is open to learning new skills and is never afraid to ask questions.
 
 <!--
 **aejiogu/aejiogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
